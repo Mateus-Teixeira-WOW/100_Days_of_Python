@@ -42,4 +42,5 @@ while game_is_on:
         ball.restart()
         ball.bounce_x()
         scoreboard.update_score_p1()
+
 screen.exitonclick()
